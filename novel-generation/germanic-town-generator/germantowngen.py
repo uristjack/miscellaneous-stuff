@@ -1,9 +1,5 @@
 import random
 
-"""
-Written by uristjack.
-"""
-
 def germantown():
     """Creates random town names in a rather Germanic flavour.
     """
