@@ -4,3 +4,4 @@ This stuff might be useful for [NaNoGenMo](https://github.com/NaNoGenMo/), I gue
 - _companynamegenerator_ creates random company names
 - _germantowngen_ creates random German town names
 - _hipsterfood_ creates random descriptions of hipster foods
+- _romannamegen_ creates random Roman names
